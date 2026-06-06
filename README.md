@@ -1,4 +1,5 @@
-# sales-forecasting-engine
+# Sales-Forecasting-Engine
+
 Excel-based sales forecasting engine with seasonal decomposition, FORECAST.ETS projections, confidence intervals, and a live KPI dashboard — no macros, no plugins.
 
 # 📊 Sales Forecasting Engine — FreelanceDesk
@@ -108,10 +109,16 @@ Found a bug or want to add a feature? Open an issue or submit a PR. Suggestions 
 
 ---
 
-## 📄 License
+## 🧑‍💻 About the Author
 
-MIT License — free to use, modify, and distribute.
+**Hari — Data Analytics & Finance Specialist**
+* 📍 **Location:** Karachi, Pakistan
+* 📈 **Focus:** Translating operational volumes and transaction structures into polished, formula-driven financial frameworks.
+* ⚙️ **Expertise:** Advanced Excel & VBA, Linked Financial Modeling, Interactive Dashboards, and Data Sanitization.
 
+### Get In Touch
+* **Fiverr:** [hari_dm](https://www.fiverr.com/hari_dm)
+* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
 ---
 
 *Built with ❤️ using pure Excel formulas. No VBA. No plugins. Just math.*
